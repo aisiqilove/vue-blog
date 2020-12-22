@@ -1,7 +1,1 @@
----
-home: true
-bgImage: '/bg.svg'
-bgImageStyle: {
-  height: '350px'
-}
----
+基于vuepress的博客
